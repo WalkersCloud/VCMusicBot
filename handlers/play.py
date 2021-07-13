@@ -751,7 +751,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="Join Updates Channel",
-                   url='https://t.me/GroupMusicXBotNews')
+                   url='https://t.me/WalkersCloud')
              ],
              [       
                InlineKeyboardButton(
