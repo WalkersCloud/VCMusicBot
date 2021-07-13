@@ -1,6 +1,6 @@
 from callsmusic.callsmusic import client as USER
 from pyrogram import filters
-from pyrogram.types import Chat, Message, User
+from pyrogram.types import Chat, Message, User, InlineKeyboardMarkup, InlineKeyboardButton
 
 
 @USER.on_message(filters.text & filters.private & ~filters.me & ~filters.bot)
