@@ -4,7 +4,7 @@ A bot that can play music on telegram group's voice call.Telegram bot + userbot 
 
 <p align="center">
   <a href="https://github.com/WalkersCloud/VCMusicBot">
-     <img height="30px" src="https://img.shields.io/badge/TG%20Music%20Bot-skyblue?style=for-the-badge&logo=github">
+     <img height="30px" src="https://img.shields.io/badge/VCMusicBot-skyblue?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -49,6 +49,7 @@ A bot that can play music on telegram group's voice call.Telegram bot + userbot 
 - [ ] PM Block for Strangers
 - [ ] Auto Delete PM Chat 
 - [ ] Spotify Support
+- [ ] Env Var for Custom PM message
 - [ ] Ect ...
 
 <h3>Requirements 📝</h3>
