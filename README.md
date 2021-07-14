@@ -42,6 +42,15 @@ A bot that can play music on telegram group's voice call.Telegram bot + userbot 
 - PM Reply to stranger
 - Stiker filter
 
+### To Do List
+
+- [ ] Env Var for Custom Foreground Image & Logo
+- [ ] Auto delete messages
+- [ ] PM Block for Strangers
+- [ ] Auto Delete PM Chat 
+- [ ] Spotify Support
+- [ ] Ect ...
+
 <h3>Requirements 📝</h3>
 
 - FFmpeg
