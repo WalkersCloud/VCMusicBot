@@ -40,7 +40,7 @@ A bot that can play music on telegram group's voice call.Telegram bot + userbot 
 ### Added by me
 
 - PM Reply to stranger
-- Stiker filter
+- Sticker filter
 
 ### To Do List
 
